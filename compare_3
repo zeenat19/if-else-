@@ -1,0 +1,8 @@
+
+# number=int(input("enter a number"))
+# if number<10:
+# 	print("10 se chotha hai")
+# elif number>10 and number<20:
+# 	print("20 se chotha hai")
+# else:
+# 	print("20  se bada hai")
